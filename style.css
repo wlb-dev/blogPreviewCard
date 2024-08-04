@@ -54,6 +54,7 @@ body{
 .img_avatar{
     border-radius: 100%;
     width: 35px;
+    height: 35px;
 }
 .title{
     font-size: 23px;
@@ -72,6 +73,7 @@ body{
 .author{
     display: flex;
     align-self: start;
+    align-items: center;
     margin-top: 15px;
 }
 .author_name{
